@@ -1,0 +1,1 @@
+This is a Java Selenium Project which automates the process of booking "iPhone" from "opencart" test site. This java project that is converted into maven, this project has 2 classes OpenCart and OpenCartModularize. In OpenCartModularize class, entire OpenCart class in breakdown into different methods to implement modularity and increase readability.
